@@ -1,4 +1,4 @@
-java java, ooo java java oo 
+java java, ooo  
 
 java pop and jave stack 
 
